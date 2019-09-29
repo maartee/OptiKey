@@ -1,4 +1,4 @@
-    <Keyboard>
+<Keyboard>
     <Name>SideCustomEN</Name>
     <ShowOutputPanel>True</ShowOutputPanel>
     <SymbolMargin>15</SymbolMargin>
@@ -163,18 +163,11 @@
             <Col>10</Col>
         </TextKey>
         <TextKey>
-            <ShiftDownLabel>}</ShiftDownLabel>
-            <ShiftUpLabel>]</ShiftUpLabel>
-            <Text>]</Text>
-            <Row>2</Row>
-            <Col>10</Col>
-        </TextKey>
-           <TextKey>
             <Symbol>TabIcon</Symbol>
             <Text>&#9;</Text>
             <Row>2</Row>
             <Col>0</Col>
-	</TextKey>
+	    </TextKey>
         <TextKey>
             <ShiftDownLabel>A</ShiftDownLabel>
             <ShiftUpLabel>a</ShiftUpLabel>
@@ -237,6 +230,13 @@
             <Text>l</Text>
             <Row>2</Row>
             <Col>9</Col>
+        </TextKey>
+        <TextKey>
+            <ShiftDownLabel>}</ShiftDownLabel>
+            <ShiftUpLabel>]</ShiftUpLabel>
+            <Text>]</Text>
+            <Row>2</Row>
+            <Col>10</Col>
         </TextKey>
 	    <ActionKey>
             <Row>3</Row>
